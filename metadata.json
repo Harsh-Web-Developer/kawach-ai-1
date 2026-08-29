@@ -1,0 +1,6 @@
+{
+  "name": "KAWACH AI",
+  "description": "Advanced Cyber Security Email Threat & Phishing Detection System with Red & Black Armor UI supporting all recognized Indian languages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
